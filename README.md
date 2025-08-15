@@ -41,9 +41,14 @@ Over the past few days, I:
 
 ---
 
-## ⚡ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+
+portal/
+│-- app.py               # Main Flask application
+│-- README.md             # Documentation
+│-- portal_data/          # Excel data storage
+│-- templates/            # HTML templates (if used)
+│-- static/               # Static assets (CSS, images, etc.)
+
+
+The website is currently online https://csc-hli6.onrender.com/login
